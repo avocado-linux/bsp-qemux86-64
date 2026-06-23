@@ -1,0 +1,5 @@
+{
+  "volume_name": "avo-a31f081a-d31a-46fe-b933-b3efd2e4fb34",
+  "source_path": "/mnt/src/jschneck/avocado-linux/extensions/bsp-qemux86-64",
+  "container_tool": "docker"
+}
