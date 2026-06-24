@@ -1,0 +1,24 @@
+{
+  "distro_release": "2026",
+  "targets": {
+    "qemux86-64": {
+      "kernel-versions": {
+        "target-sysroot": "6.18.24-yocto-standard"
+      },
+      "repo-snapshot": {
+        "channel": "edge",
+        "created": "2026-06-11T15:03:23Z",
+        "release": "2026",
+        "repo_url": "https://repo.avocadolinux.org",
+        "snapshot": "6"
+      },
+      "sdk": {
+        "x86_64": {
+          "avocado-sdk-bootstrap": "0.0.0-r0.0.x86_64_avocadosdk",
+          "avocado-sdk-qemux86-64": "0.0.0-r0.0.all_avocadosdk"
+        }
+      }
+    }
+  },
+  "version": 7
+}
