@@ -9,7 +9,7 @@ extensions:
     summary: Board support for QEMU x86-64
     description: Board support for QEMU x86-64 virtual machine
     license: Apache-2.0
-    url: https://github.com/avocadolinux/avocado-os
+    url: https://github.com/avocado-linux/bsp-qemux86-64
     vendor: Avocado Linux <info@avocadolinux.org>
 
     on_merge:
